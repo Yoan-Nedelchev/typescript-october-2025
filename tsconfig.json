@@ -7,6 +7,6 @@
     "outDir": "dist", // redirect output to the directory.
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "moduleResolution": "nodenext"
+    "moduleResolution": "nodenext",
   }
   }
